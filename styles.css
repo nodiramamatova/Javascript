@@ -1,0 +1,10 @@
+
+.container-fluid {
+    padding: 5%;
+}
+
+.form-control {
+  display: inline-block;
+  width: 250px;
+  margin-top: 10px;
+}
